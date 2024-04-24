@@ -5,6 +5,7 @@
 }
 .var-wrapper{
     background-color: antiquewhite;
+    padding-left: 20px;
 }
 h1{
     text-align: center;
@@ -15,4 +16,14 @@ li{
 }
 li:hover{
     cursor: pointer;
+}
+.wrapper ul{
+    font-size: 20px;
+    font-family: 'Comic Sans MS', cursive;
+    list-style-type: none;
+}
+.wrapper p{
+    display: inline;
+    font-size: 20px;
+    font-family: 'Comic Sans MS', cursive;
 }
